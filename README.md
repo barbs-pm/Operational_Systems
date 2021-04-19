@@ -1,6 +1,6 @@
 # Sistemas Operacionais
 
-Códigos pertinentes à matéria de istemas Operacionais
+Códigos pertinentes à matéria de Sistemas Operacionais
 
 ## Tipos de exercicíos
 
