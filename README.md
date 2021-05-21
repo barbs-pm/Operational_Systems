@@ -4,7 +4,7 @@ Códigos pertinentes à matéria de Sistemas Operacionais
 
 ## Tipos de exercicíos
 
-Threads, mutex, trylock...
+Threads, mutex, trylock, semáforos, barreiras
 
 ### Informações
 
